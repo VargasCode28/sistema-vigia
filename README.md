@@ -61,14 +61,17 @@ Vista previa local del build de producción:
 npm run preview
 ```
 
-## Imágenes y videos
+## Imágenes 
 
 Puedes agregar capturas de pantalla, diagramas o demos en el README usando la carpeta `public/` del proyecto.
 
 ### Ejemplo de imagen
+<img width="1918" height="863" alt="Screenshot 2026-06-24 174021" src="https://github.com/user-attachments/assets/8043eca3-0b0c-418d-bfe4-ab1924f24eba" />
 
 <img width="1918" height="871" alt="Screenshot 2026-06-24 171632" src="https://github.com/user-attachments/assets/712eb72e-f47f-454c-9ee4-2c6b61c54d12" />
 
+
+<img width="1915" height="867" alt="Screenshot 2026-06-24 173908" src="https://github.com/user-attachments/assets/8a395e49-d9a7-4f72-b822-9f2eb68b1d02" />
 
 > Nota: para la vista en GitHub, los archivos deben estar en el repositorio y la ruta debe ser accesible desde el README.
 
