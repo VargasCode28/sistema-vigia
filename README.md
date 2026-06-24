@@ -78,7 +78,9 @@ Coloca el video en `client/public/videos/` y usa HTML en el README:
 
 ```html
 <video controls width="720">
-  <source src="/videos/demo.mp4" type="video/mp4">
+  <source src="/demo-vigia
+
+s/demo.mp4" type="video/mp4">
   Tu navegador no soporta video HTML5.
 </video>
 ```
