@@ -1,3 +1,5 @@
+<img width="1918" height="871" alt="Screenshot 2026-06-24 171632" src="https://github.com/user-attachments/assets/312cb552-4fcb-449b-864a-941d5fcaa830" />
+<img width="1918" height="871" alt="Screenshot 2026-06-24 171632" src="https://github.com/user-attachments/assets/0c578017-9f15-4cc3-af8c-2b62a5c33eaa" />
 # Sistema Vigía
 
 Este repositorio contiene el cliente web de `Sistema Vigía`, una plataforma de gestión para el control de accesos, usuarios y operaciones internas en entornos de recepción, housekeeping, administración y superadministración.
@@ -66,24 +68,8 @@ Puedes agregar capturas de pantalla, diagramas o demos en el README usando la ca
 
 ### Ejemplo de imagen
 
-Coloca la imagen en `client/public/images/` y luego usa esta sintaxis:
+<img width="1918" height="871" alt="Screenshot 2026-06-24 171632" src="https://github.com/user-attachments/assets/712eb72e-f47f-454c-9ee4-2c6b61c54d12" />
 
-```md
-![Captura de pantalla del sistema](/client/public/recepcion.png)
-```
-
-### Ejemplo de video
-
-Coloca el video en `client/public/videos/` y usa HTML en el README:
-
-```html
-<video controls width="720">
-  <source src="/demo-vigia
-
-s/demo.mp4" type="video/mp4">
-  Tu navegador no soporta video HTML5.
-</video>
-```
 
 > Nota: para la vista en GitHub, los archivos deben estar en el repositorio y la ruta debe ser accesible desde el README.
 
