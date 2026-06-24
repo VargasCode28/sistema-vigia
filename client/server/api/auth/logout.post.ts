@@ -1,0 +1,7 @@
+import { useAuthSession } from "~~/server/utils/session"
+
+export default defineEventHandler(async (event) => {
+  const session = await useAuthSession(event)
+  await session.clear()
+  return { success: true }
+})
